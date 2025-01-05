@@ -1,0 +1,10 @@
+<level>
+    <elements>
+        <element type="square" x="100" y="180" width="50" height="16" color="130,130,130"  />
+        <element type="square" x="200" y="150" width="50" height="16" color="255,0,0"     />
+        <element type="square" x="50" y="100" width="50" height="16" color="0,255,0"     />
+        <element type="square" x="150" y="50" width="50" height="16" color="0,0,255"    />
+        <element type="square" x="250" y="200" width="50" height="16" color="255,255,0"/>
+        <element type="circle" x="30" y="200" width="60" height="0" color="0,0,255"  />
+    </elements>
+</level>
